@@ -1,2 +1,6 @@
 feature10
+<<<<<<< HEAD
 newfeature
+=======
+testline
+>>>>>>> 874a1c3efd00e1f6fc57d04d47120df75b35cc7f
